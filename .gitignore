@@ -143,3 +143,6 @@ vite.config.ts.timestamp-*
 
 # report screenshots (local only)
 report-screenshots/
+
+# macOS
+.DS_Store
